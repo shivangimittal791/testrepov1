@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://65usbrhcatig.share.zrok.io/content/sitev1.html
+    url: https://65usbrhcatig.share.zrok.io
     type: "markup"
     suffix: ".md.html"
