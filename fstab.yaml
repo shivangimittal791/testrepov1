@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://l87hlnlyq50g.share.zrok.io
+    url: https://41c1vfts7j1b.share.zrok.io
     type: "markup"
     suffix: ".md.html"
